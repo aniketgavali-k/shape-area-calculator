@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# Project build files
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Log files
+*.log
